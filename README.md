@@ -1,2 +1,2 @@
 # CPP-Assignments
-Most of my C++ Assignments and simple explanations'll be here to be available for anyone to check / copy / edit...
+Most of my C++ Assignments and simple explanations'll be here to be available for anyone to check, copy or edit
